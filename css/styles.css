@@ -693,8 +693,7 @@ body {
     background-color: transparent;
     padding-left: 38px;
     outline: transparent;
-    transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    border-color: #4D5AE5;
+    transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .data-modal-input:focus {
     fill: #4D5AE5;
