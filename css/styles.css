@@ -758,7 +758,7 @@ body {
 .checkbox-icon {
 
 }
-.ckeckbox:checked + .checkbox-span span {
+.ckeckbox:checked +.checkbox-label .checkbox-span {
     background-color: #404BBF;
     border: none;
     fill: #F4F4FD;
