@@ -698,7 +698,7 @@ body {
 .data-modal-input:focus {
     border-color: #4D5AE5;
 }
-.data-modal-input:focus + svg .data-modal-icon {
+.data-modal-input:focus + .data-modal-icon {
     fill: #4D5AE5;
 }
 .data-modal-icon {
@@ -758,7 +758,7 @@ body {
 .checkbox-icon {
 
 }
-.ckeckbox:checked + .checkbox-span {
+.ckeckbox:checked + .checkbox-span span {
     background-color: #404BBF;
     border: none;
     fill: #F4F4FD;
